@@ -1,3 +1,6 @@
+- **21.3.6.0**
+  - updated dependency of alexa-remote2 to 3.6.0
+  - updated version numbering to reflect dependency version (year.version)
 - **3.10.4**
   - update dependency alexa-remote2 to 3.3.1
 - **3.10.3**
