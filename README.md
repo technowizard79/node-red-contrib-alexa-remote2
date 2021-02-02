@@ -1,5 +1,7 @@
 # node-red-contrib-alexa-remote2
 
+Forked from 586837r/node-red-contrib-alexa-remote2 for dependency updates (author MIA).
+
 [![npm](https://img.shields.io/npm/v/node-red-contrib-alexa-remote2.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote2) [![downloads](https://img.shields.io/npm/dt/node-red-contrib-alexa-remote2.svg)](https://www.npmjs.com/package/node-red-contrib-alexa-remote2)
 
 This is a collection of Node-RED nodes for interacting with the Alexa API.
